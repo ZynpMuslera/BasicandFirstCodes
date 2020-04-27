@@ -23,8 +23,3 @@ for movie,gro in zip(movies,gross):
         sys.stderr.write("Please write the name of the movie correctly")
         sys.stderr.flush()
         break
-
-
-
-
-
